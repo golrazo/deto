@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'SDKukdetopokki';
+    src: url('SDKukdetopokki-aLt00.eot');
+    src: url('SDKukdetopokki-aLt00.eot?#iefix') format('embedded-opentype'),
+        url('SDKukdetopokki-aLt00.woff2') format('woff2'),
+        url('SDKukdetopokki-aLt00.woff') format('woff'),
+        url('SDKukdetopokki-aLt00.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SDKukdetopokki';
+    src: url('SDKukdetopokki-bBd00.eot');
+    src: url('SDKukdetopokki-bBd00.eot?#iefix') format('embedded-opentype'),
+        url('SDKukdetopokki-bBd00.woff2') format('woff2'),
+        url('SDKukdetopokki-bBd00.woff') format('woff'),
+        url('SDKukdetopokki-bBd00.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
